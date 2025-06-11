@@ -1,0 +1,16 @@
+theme: jekyll-theme-minimal
+title: JavaScript Obfuscation Guide
+description: Hướng dẫn chi tiết về JavaScript Obfuscation
+show_downloads: true
+google_analytics: UA-XXXXXXXXX-X
+
+# Cấu hình navigation
+nav:
+  - title: Trang chủ
+    url: /
+  - title: Bắt đầu
+    url: /getting-started
+  - title: Hướng dẫn
+    url: /guide
+  - title: Ví dụ
+    url: /examples 
